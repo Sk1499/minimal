@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 ---
 
@@ -8,36 +8,22 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# Data Science Portfolio
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Machine Learning
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Fraud Detection
 
-### Header 3
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+<!-- #### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -112,12 +98,5 @@ end
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
+</dl> -->
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
